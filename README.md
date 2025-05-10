@@ -13,7 +13,39 @@ vishan@vishan-Inspiron-15-3567:~/Documents$ npm create vite@latest
 ◇  Select a framework:
 │  React
 │
+◇  Select a variant:vishan@vishan-Inspiron-15-3567:~/Documents$ npm create vite@latest
+│
+◇  Project name:
+│  sampleReact
+│
+◇  Package name:
+│  react
+│
+◇  Select a framework:
+│  React
+│
 ◇  Select a variant:
+│  TypeScript
+│
+◇  Scaffolding project in /home/vishan/Documents/sampleReact...
+│
+└  Done. Now run:
+
+  cd sampleReact
+  npm install
+  npm run dev
+
+vishan@vishan-Inspiron-15-3567:~/Documents$ cd sampleReact
+vishan@vishan-Inspiron-15-3567:~/Documents/sampleReact$ npm install
+
+added 259 packages, and audited 260 packages in 4m
+
+61 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+vishan@vishan-Inspiron-15-3567:~/Documents/sampleReact$ 
+
 │  TypeScript
 │
 ◇  Scaffolding project in /home/vishan/Documents/sampleReact...
@@ -89,3 +121,7 @@ export default tseslint.config({
   },
 })
 ```
+
+intall talwind css
+![image](https://github.com/user-attachments/assets/355e1e1b-b706-438b-a97f-0c760a227a78)
+
