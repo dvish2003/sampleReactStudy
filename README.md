@@ -1,5 +1,42 @@
 # React + TypeScript + Vite
 
+create react Project 
+```js
+vishan@vishan-Inspiron-15-3567:~/Documents$ npm create vite@latest
+│
+◇  Project name:
+│  sampleReact
+│
+◇  Package name:
+│  react
+│
+◇  Select a framework:
+│  React
+│
+◇  Select a variant:
+│  TypeScript
+│
+◇  Scaffolding project in /home/vishan/Documents/sampleReact...
+│
+└  Done. Now run:
+
+  cd sampleReact
+  npm install
+  npm run dev
+
+vishan@vishan-Inspiron-15-3567:~/Documents$ cd sampleReact
+vishan@vishan-Inspiron-15-3567:~/Documents/sampleReact$ npm install
+
+added 259 packages, and audited 260 packages in 4m
+
+61 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+vishan@vishan-Inspiron-15-3567:~/Documents/sampleReact$ 
+
+```
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
